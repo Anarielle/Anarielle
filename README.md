@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! I'm Polina!👋</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-🌱 I’m currently learning **C# and Go languages**
+- 🌱 I’m currently learning **C# and Go languages**
 
-📫 How to reach me **anarielle.a@gmail.com**
+- 📫 How to reach me **anarielle.a@gmail.com**
 
 <br><h3 align="left">⚔️ My current rank on the Codewars</h3>
 
