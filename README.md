@@ -3,6 +3,7 @@
 
 -  🌱 I’m currently learning **C#**
 -  📫 How to reach me **anarielle.a@gmail.com**
+-  ❤️ I love programming
 
 <br><h3 align="left">⚔️ My current rank on the Codewars</h3>
 
