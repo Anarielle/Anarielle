@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Polina!👋</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
--  🌱 I’m currently learning **C#**
+-  🌱 I’m currently learning **C#** and **ASP.NET**
 -  📫 How to reach me **anarielle.a@gmail.com**
 -  ❤️ I love programming
 
